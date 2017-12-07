@@ -1,3 +1,7 @@
 body {
-    background: lightcoral;
+    background: #fefefe;
+}
+h1 {
+    color: lightsalmon;
+    text-align: center;
 }

@@ -1,1 +1,1 @@
-console.log('tiny koa');
+console.log('Tiny Koa');

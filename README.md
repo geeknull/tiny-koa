@@ -5,3 +5,14 @@ With some middlewares.
 
 Help you learn Koa.
 💪
+
+## Run
+
+Use Node.js 8.9.1+
+
+```
+$ npm install
+$ npm run dev
+```
+
+open `http://localhost:8600/index.html`
